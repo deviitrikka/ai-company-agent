@@ -1,9 +1,4 @@
-Here's your **interactive `README.md`** file for your **AI-Powered Company Research Assistant**. You can copy and paste this directly into your **GitHub repository**. 🚀
 
----
-
-### **📜 README.md for AI-Powered Company Research Assistant**
-```md
 # 🔍 AI-Powered Company Research Assistant 🚀
 
 This is an **AI-powered company research tool** that provides **comprehensive business insights** using **FastAPI & Streamlit**. The tool fetches **company details, recent news, stock prices, revenue, and Twitter sentiment analysis**, making it an ideal solution for investors, analysts, and business professionals.
@@ -167,5 +162,3 @@ This project is licensed under the **MIT License**.
 
 ## 🌟 **Show Your Support**
 If you like this project, **please ⭐️ the repository** and share it with others!
-
----
