@@ -1,6 +1,6 @@
 
 # 🔍 AI-Powered Company Research Assistant 🚀
-
+## Live link : https://ai-company-agent-gxt2qnp75zcy8jupjwercc.streamlit.app/
 This is an **AI-powered company research tool** that provides **comprehensive business insights** using **FastAPI & Streamlit**. The tool fetches **company details, recent news, stock prices, revenue, and Twitter sentiment analysis**, making it an ideal solution for investors, analysts, and business professionals.
 
 ---
