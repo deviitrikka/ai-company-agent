@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 
 # FastAPI backend URL
-API_URL = "https://ai-company-agent-production.up.railway.app/get_compdata"
+API_URL = "https://ai-powered-search-production.up.railway.app/get_compdata"
 
 st.set_page_config(page_title="Company Research Assistant", layout="wide")
 st.title("AI-Powered Company Research Assistant")
