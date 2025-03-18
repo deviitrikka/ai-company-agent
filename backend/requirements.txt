@@ -2,7 +2,6 @@ fastapi==0.115.2
 uvicorn==0.31.1
 pydantic==2.9.2
 langchain==0.3.3
-langchain-groq==0.2.0
 langchain-core==0.3.11
 langchain-community==0.3.2
 requests==2.32.3
@@ -13,3 +12,4 @@ textblob==0.18.0.post0
 yfinance==0.2.54
 python-dotenv==1.0.1
 logging==5.3.0
+langchain-groq==0.2.0
